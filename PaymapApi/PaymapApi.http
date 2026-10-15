@@ -1,0 +1,6 @@
+@PaymapApi_HostAddress = http://localhost:5262
+
+GET {{PaymapApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
